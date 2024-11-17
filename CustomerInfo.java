@@ -1,3 +1,7 @@
+/**
+ * by jai
+ */
+
 import java.util.LinkedList;
 
 public class CustomerInfo {
