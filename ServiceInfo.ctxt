@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=ServiceInfo
+comment1.params=serviceId\ serviceType\ serviceCost\ serviceDate\ estCompletionTime
+comment1.target=ServiceInfo(int,\ java.lang.String,\ double,\ java.time.LocalDate,\ int)
+comment10.params=serviceDate
+comment10.target=void\ setServiceDate(java.time.LocalDate)
+comment11.params=
+comment11.target=int\ getEstCompletionTime()
+comment12.params=estCompletionTime
+comment12.target=void\ setEstCompletionTime(int)
+comment2.params=
+comment2.target=java.lang.String\ getFormattedServiceDate()
+comment3.params=
+comment3.target=int\ getServiceId()
+comment4.params=serviceId
+comment4.target=void\ setServiceId(int)
+comment5.params=
+comment5.target=java.lang.String\ getServiceType()
+comment6.params=serviceType
+comment6.target=void\ setServiceType(java.lang.String)
+comment7.params=
+comment7.target=double\ getServiceCost()
+comment8.params=serviceCost
+comment8.target=void\ setServiceCost(double)
+comment9.params=
+comment9.target=java.time.LocalDate\ getServiceDate()
+numComments=13
